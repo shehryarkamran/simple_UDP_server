@@ -1,0 +1,5 @@
+C:\Users\Asif\documents\visual studio 2010\Projects\simple_UDP_server\simple_UDP_Client\bin\Debug\simple_UDP_Client.exe
+C:\Users\Asif\documents\visual studio 2010\Projects\simple_UDP_server\simple_UDP_Client\bin\Debug\simple_UDP_Client.pdb
+C:\Users\Asif\documents\visual studio 2010\Projects\simple_UDP_server\simple_UDP_Client\obj\x86\Debug\simple_UDP_Client.exe
+C:\Users\Asif\documents\visual studio 2010\Projects\simple_UDP_server\simple_UDP_Client\obj\x86\Debug\simple_UDP_Client.pdb
+C:\Users\Asif\Documents\Visual Studio 2010\Projects\simple_UDP_server\simple_UDP_Client\obj\x86\Debug\ResolveAssemblyReference.cache
